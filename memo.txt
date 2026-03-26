@@ -1,0 +1,16 @@
+### AutoCADで自動図面比較をするプログラムについて ###
+
+1. フォルダの作成とpythonファイルを置く
+[260325_mergeDWG]
+　L [merge_a]
+　L [merge_b]
+　L [output]
+　L 260325_merge_dwg.py
+
+※[260325_mergeDWG]フォルダの中に、[merge_a]、[merge_b]、 [output]、260325_merge_dwg.pyを置くということ。
+
+2. AutoCADを立ち上げる
+
+3. pythonプログラムを実行する
+
+4. [output]フォルダ内に重ね合わせしたdwgが書き出されているかチェックする
