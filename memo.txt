@@ -1,6 +1,7 @@
 ### AutoCADで自動図面比較をするプログラムについて ###
 
 1. フォルダの作成とpythonファイルを置く
+"c:\@VScode\260325_mergeDWG"
 [260325_mergeDWG]
 　L [merge_a]
 　L [merge_b]
