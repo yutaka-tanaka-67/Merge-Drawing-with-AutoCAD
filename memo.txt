@@ -3,9 +3,9 @@
 1. フォルダの作成とpythonファイルを置く
 "c:\@VScode\260325_mergeDWG"
 [260325_mergeDWG]
-　L [merge_a]
-　L [merge_b]
-　L [output]
+　L [merge_a] <--- 重ねたいDWG（複数可）
+　L [merge_b] <--- 重ねたいDWG（複数可）
+　L [output] <--- 重ね合わせされたDWGが格納される
 　L 260325_merge_dwg.py
 
 ※[260325_mergeDWG]フォルダの中に、[merge_a]、[merge_b]、 [output]、260325_merge_dwg.pyを置くということ。
